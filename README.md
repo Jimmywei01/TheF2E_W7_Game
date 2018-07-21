@@ -4,7 +4,7 @@
 ## 使用技術: 
 ### html preprocessor (pug、slim、haml)
 ### CSS preprocessor (Sass、Less)
-### RWD (mobile first)
+### canvas
 ---
 
 ### 如果您想將專案clone到本機端執行 直接clone專案，並透過命令列執行請依序執行以下指令來執行 gulp
